@@ -2,16 +2,11 @@
 
 This repository contains multiple data analysis projects focused on different domains using SQL and Power BI.
 
-Airbnb NYC Exploratory Data Analysis (SQL)
+Spotify Most Streamed Songs 2024 - Data Cleaning Project
 
-**Description**:  
-In this project, I performed exploratory data analysis (EDA) on the Airbnb NYC dataset using SQL. I explored the data, extracted key insights using SQL, and then imported the dataset into Power BI for visualization. The visualizations are based on the insights gained from SQL exploration.
-
-Airbnb Power BI Dashboard
-
-**Description**:  
-The dashboard highlights key metrics such as host activity, price trends, and neighborhood-wise performance, based on the insights extracted during the SQL exploration.
-
+**Description**: 
+This project involves cleaning and transforming a dataset of Spotify's most streamed songs in 2024. Tasks include handling null values, standardizing date formats, removing duplicates, and updating columns with appropriate data typesData Cleaning (SQL)
+ 
 Pizza Sales Analysis (Power BI)
 
 **Description**:  
