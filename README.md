@@ -2,10 +2,10 @@
 
 This repository contains multiple data analysis projects focused on different domains using SQL and Power BI.
 
-Spotify Most Streamed Songs 2024 - Data Cleaning Project
+Spotify Most Streamed Songs 2024 - Data Cleaning Project (SQL)
 
 **Description**: 
-This project involves cleaning and transforming a dataset of Spotify's most streamed songs in 2024. Tasks include handling null values, standardizing date formats, removing duplicates, and updating columns with appropriate data typesData Cleaning (SQL)
+This project involves cleaning and transforming a dataset of Spotify's most streamed songs in 2024. Tasks include handling null values, standardizing date formats, removing duplicates, and updating columns with appropriate data types
  
 Pizza Sales Analysis (Power BI)
 
